@@ -1,2 +1,3 @@
-# webrtc-chat
-[WIP] WebRTC based video calls using NEAR to establish connection 
+# WebRTC Live streaming
+
+Stream live from the browser. Let other people connect by URL using NEAR
